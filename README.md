@@ -9,7 +9,7 @@ This project only shows the trajectory of the Starlink satellites, but you can c
 ## Reflection 
 This was a side project built during my second year at the University of Southern California. The project goal was to familiarize myself with JavaScript and React development.
 
-### Technologies implemented
+### Technologies used
 * React Component props and state
 * React Component Lifecycles
 * D3 library for animating world map
